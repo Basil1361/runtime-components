@@ -1,1 +1,1 @@
-This is a test to initialize GITHUB
+This is part of the CS193 assignment. 
